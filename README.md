@@ -2,6 +2,7 @@
 
 ## Project description
 ✏️ - 
+
 🛠 - Jupyter Notebooks have been used because of their ease of use and convenience for exploratory data analysis, along with the Python language.
 🚩 - The main challenge was to find the necessary data on Spanish films, as there was no database with such information. Therefore, CSV files have been created, through web scraping, containing this information.
 
