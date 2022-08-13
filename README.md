@@ -1,5 +1,20 @@
 # Bechdel Test on Spanish Films
 
+Perhaps you have never asked yourself the question: Do films show a gender bias?
+
+You may think that this is an absurd question, that in virtually every film there are actresses and characters that represent and empower women. However, is this true?
+
+This is exactly what Alison Bechdel once asked herself, giving rise to what is known as the Bechdel Test.
+
+Bechdel herself mentions as a precedent the essay "A Room of One's Own" (1929), where Virginia Woolf criticises that in most fictional literature the presence of a female character is only due to her link with an existing male character, and the relevance of the female character derives from this link.
+
+The test criteria are as follows:
+1. At least two female characters appear
+2. who are engaged in a conversation
+3. that does not have a male as its subject.
+
+This exploratory data analysis will analyse whether there is a gender gap in Spanish cinema.
+
 ## Project description
 ✏️ - 
 
